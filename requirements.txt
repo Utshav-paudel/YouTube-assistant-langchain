@@ -1,6 +1,8 @@
-faiss-cpu
+Chroma
 openai
 langchain
 streamlit
 textwrap3
 youtube-transcript-api
+tiktoken==0.5.2
+chromadb
