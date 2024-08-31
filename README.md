@@ -1,6 +1,13 @@
-## YouTube assistant Langchain
+## YouTube Assistant Langchain
 
-Do you want to save your time or tired of watching 3 hour long podcast then here we have youtube assistant :
-* Take url of youtube video and your query related to video like "summarize the video" and answer the question by converting whole video into transcript and search you query in vector stores of the transcripts.
-* Demo of it where the video was 3 hour long Andrew Hubberman's Podcast
-![](https://github.com/Utshav-paudel/YouTube-assistant-langchain/blob/d885c656c03e461c175d00ab917f5ad81cf19a3a/images/demo.png)
+Are you looking to save time or feeling tired of watching lengthy 3-hour podcasts? Look no further, as the YouTube Assistant is here to help! 
+
+### Features:
+* **Video URL Input:** Provide the URL of a YouTube video.
+* **Query Input:** Submit your query related to the video, for example, "summarize the video."
+* **Utilizes Transcripts:** Converts the entire video into a transcript and searches for your query within the vector stores of the transcripts to deliver precise answers.
+
+### Demo:
+Below is a screenshot from a demo where the tool processed a 3-hour long Andrew Huberman Podcast:
+
+![Demo Image](https://github.com/Utshav-paudel/YouTube-assistant-langchain/blob/d885c656c03e461c175d00ab917f5ad81cf19a3a/images/demo.png)
